@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log in to Facebook</name>
+   <tag></tag>
+   <elementGuidId>0271944d-0774-4a31-9fa2-b033c3815d4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_block']/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._9axz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a3a8176b-1242-4231-ad63-97d14b09843a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9axz</value>
+      <webElementGuid>a69f3c0f-f045-4b70-a0b9-516aee145653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in to Facebook</value>
+      <webElementGuid>9632c040-4e7f-49b3-96fd-9e2a1f6e5ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_block&quot;)/span[@class=&quot;_97w1 _50f6&quot;]/div[@class=&quot;_9axz&quot;]</value>
+      <webElementGuid>fde3ddc9-f613-459e-bc77-1a9c2fd1556f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_block']/span/div</value>
+      <webElementGuid>28395f5b-d0a8-488f-8ec4-9bf67784128f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find your account and log in.'])[1]/preceding::div[2]</value>
+      <webElementGuid>96540708-7ea7-481a-8632-5181f19a39e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>2b555dfd-3098-4a28-bb5d-9e2b55b86cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log in to Facebook' or . = 'Log in to Facebook')]</value>
+      <webElementGuid>bb401fdf-3d85-460a-b2d7-fc3ca13ad56c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

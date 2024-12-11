@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>fb_login_page_failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>140455d3-d6f6-40b2-abef-9c8a332b5621</testCaseGuid>
+</TestCaseEntity>
